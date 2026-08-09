@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+sim/cache/
+sim/outputs/
+eda_outputs/
+*.pkl
+inventory_snapshot.csv
+work_event_log.csv
+order_line_history.csv
+*.pdf
+.ipynb_checkpoints/
